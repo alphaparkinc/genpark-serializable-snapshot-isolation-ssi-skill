@@ -1,0 +1,14 @@
+{
+  "name": "genpark-serializable-snapshot-isolation-ssi-skill",
+  "version": "1.0.0",
+  "description": "Serializable Snapshot Isolation (SSI) engine tracking rw-antidependencies and detecting dangerous pivot structures to prevent write-skew anomalies.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "serializable-snapshot-isolation",
+    "ssi",
+    "write-skew",
+    "anti-dependency",
+    "mvcc"
+  ]
+}
